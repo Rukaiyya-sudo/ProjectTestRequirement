@@ -1,0 +1,6 @@
+@WebAPIMVC8CRUD_HostAddress = http://localhost:5126
+
+GET {{WebAPIMVC8CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\webapimvc8crud\\webapimvc8crud\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|solutionrelative:webapimvc8crud\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\webapimvc8crud\\webapimvc8crud\\models\\mvc8cruddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|solutionrelative:webapimvc8crud\\models\\mvc8cruddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\webapimvc8crud\\webapimvc8crud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|solutionrelative:webapimvc8crud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\webapimvc8crud\\webapimvc8crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|solutionrelative:webapimvc8crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\webapimvc8crud\\webapimvc8crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4E74D1-E5E9-466E-A374-C89D583E237F}|WebAPIMVC8CRUD\\WebAPIMVC8CRUD.csproj|solutionrelative:webapimvc8crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC8CRUD\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\Models\\Category.cs",
+              "RelativeToolTip": "WebAPIMVC8CRUD\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:53:40.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC8CRUD\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebAPIMVC8CRUD\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:02:46.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC8CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\Program.cs",
+              "RelativeToolTip": "WebAPIMVC8CRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:54:51.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIMVC8CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\appsettings.json",
+              "RelativeToolTip": "WebAPIMVC8CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T20:54:08.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mvc8crudDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\Models\\Mvc8crudDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC8CRUD\\Models\\Mvc8crudDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\WebAPIMVC8CRUD\\WebAPIMVC8CRUD\\Models\\Mvc8crudDbContext.cs",
+              "RelativeToolTip": "WebAPIMVC8CRUD\\Models\\Mvc8crudDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:52:53.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

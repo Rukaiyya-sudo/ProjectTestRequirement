@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\mvc8crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\mvc8crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\viewmodel\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\viewmodel\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Migrations\\20240817133227_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC8CRUD\\Migrations\\20240817133227_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|c:\\users\\user\\source\\repos\\rukaiyya\\mvc8crud\\mvc8crud\\migrations\\20240817140643_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73BB51-8C35-4B98-8940-A93D0FA3CBF4}|MVC8CRUD\\MVC8CRUD.csproj|solutionrelative:mvc8crud\\migrations\\20240817140643_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MVC8CRUD\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:32:00.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "MVC8CRUD\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:31:49.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MVC8CRUD\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:31:42.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Models\\Product.cs",
+              "RelativeToolTip": "MVC8CRUD\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:13:49.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Models\\Category.cs",
+              "RelativeToolTip": "MVC8CRUD\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:09:12.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVC8CRUD\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:14:52.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "MVC8CRUD\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:31:51.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVC8CRUD\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:09:31.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC8CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\appsettings.json",
+              "RelativeToolTip": "MVC8CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T12:16:04.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Program.cs",
+              "RelativeToolTip": "MVC8CRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:18:43.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVC8CRUD\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwDQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:10:28.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MVC8CRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\MVC8CRUD.csproj",
+              "RelativeDocumentMoniker": "MVC8CRUD\\MVC8CRUD.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\MVC8CRUD.csproj",
+              "RelativeToolTip": "MVC8CRUD\\MVC8CRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T12:14:30.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MVC8CRUD\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T14:30:11.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MVC8CRUD\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T14:32:38.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "MVC8CRUD\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T14:31:04.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\ViewModel\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\ViewModel\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\ViewModel\\ProductViewModel.cs",
+              "RelativeToolTip": "MVC8CRUD\\ViewModel\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:22:22.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\ViewModel\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\ViewModel\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\ViewModel\\ProductListViewModel.cs",
+              "RelativeToolTip": "MVC8CRUD\\ViewModel\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:20:28.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240817140643_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Migrations\\20240817140643_Initial.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Migrations\\20240817140643_Initial.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Migrations\\20240817140643_Initial.cs",
+              "RelativeToolTip": "MVC8CRUD\\Migrations\\20240817140643_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:06:44.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240817133227_Initial2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Migrations\\20240817133227_Initial2.cs",
+              "RelativeDocumentMoniker": "MVC8CRUD\\Migrations\\20240817133227_Initial2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Rukaiyya\\MVC8CRUD\\MVC8CRUD\\Migrations\\20240817133227_Initial2.cs",
+              "RelativeToolTip": "MVC8CRUD\\Migrations\\20240817133227_Initial2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:32:27.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

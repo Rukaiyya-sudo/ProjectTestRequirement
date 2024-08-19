@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAPIMVC8CRUD.props" />
+</Project>
